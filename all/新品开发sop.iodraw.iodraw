@@ -113,10 +113,10 @@
           <mxGeometry y="20" width="160" height="280" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-8" value="战略品类" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=1" parent="77e6c97f196da883-2" vertex="1">
-          <mxGeometry x="30" y="40" width="80" height="50" as="geometry" />
+          <mxGeometry x="40" y="40" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-93" value="运营部门提供" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=1" parent="77e6c97f196da883-2" vertex="1">
-          <mxGeometry x="30" y="110" width="80" height="50" as="geometry" />
+          <mxGeometry x="40" y="110" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eO2jiof8pkie_VQY2UW6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="77e6c97f196da883-2">
           <mxGeometry relative="1" as="geometry">
@@ -131,7 +131,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-92" value="产开部门调研" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=1" parent="77e6c97f196da883-2" vertex="1">
-          <mxGeometry x="30" y="180" width="80" height="50" as="geometry" />
+          <mxGeometry x="40" y="180" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eO2jiof8pkie_VQY2UW6-13" value="项目分级阶段" style="swimlane;html=1;startSize=20;fontStyle=1;fillColor=none;strokeColor=default;swimlaneFillColor=none;swimlaneLine=1;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="160" y="20" width="160" height="280" as="geometry" />
@@ -212,6 +212,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="320" as="sourcePoint" />
             <mxPoint x="980" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eO2jiof8pkie_VQY2UW6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eO2jiof8pkie_VQY2UW6-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="120.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eO2jiof8pkie_VQY2UW6-23" value="审核" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;container=0;glass=0;allowArrows=1;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
