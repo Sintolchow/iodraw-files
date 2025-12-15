@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="340" as="targetPoint" />
+            <mxPoint x="160" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="概念阶段" style="swimlane;html=1;startSize=20;fontStyle=1" parent="77e6c97f196da883-1" vertex="1">
@@ -142,6 +142,9 @@
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="77e6c97f196da883-1" source="YLDBu60SeRwMWbC2DHA3-170" target="YLDBu60SeRwMWbC2DHA3-182">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-187" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="368" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
