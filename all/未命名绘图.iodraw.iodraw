@@ -172,7 +172,7 @@
             <mxPoint x="660" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-201" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;⭕参照以往样品优化建议对最终产品样进行最后质量评估&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;🔺审核人员：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;总经理、&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: initial;&quot;&gt;产开部门负责人、负责采购&lt;/span&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;textDirection=ltr;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-201" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;⭕参照以往样品优化建议对最终产品样进行最后质量评估&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;🔺审核人员：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;董事长、总经理、产开部门负责人、运营部门负责、负责运营&lt;/span&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;textDirection=ltr;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="785" y="360" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-202" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="YLDBu60SeRwMWbC2DHA3-201">
