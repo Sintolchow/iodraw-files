@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="340" as="targetPoint" />
+            <mxPoint x="160" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="概念阶段" style="swimlane;html=1;startSize=20;fontStyle=1" parent="77e6c97f196da883-1" vertex="1">
