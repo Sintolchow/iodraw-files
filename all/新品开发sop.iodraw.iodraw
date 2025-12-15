@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="600" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,6 +245,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eO2jiof8pkie_VQY2UW6-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eO2jiof8pkie_VQY2UW6-13" target="YLDBu60SeRwMWbC2DHA3-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eO2jiof8pkie_VQY2UW6-65" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;⭕A级项目直接由产开部门主管市场调研；B、C级项目由概念发起人&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;🔺审核流程：&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;产开部门主管&lt;/span&gt;→&lt;/font&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;运营部门主管/经理&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: initial;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: initial;&quot;&gt;总经理&lt;/span&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;textDirection=ltr;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="305" y="360" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eO2jiof8pkie_VQY2UW6-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="77e6c97f196da883-3" target="eO2jiof8pkie_VQY2UW6-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
