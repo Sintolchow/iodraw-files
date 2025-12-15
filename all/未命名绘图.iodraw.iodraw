@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="525" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="304" dy="200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,6 +77,9 @@
         <mxCell id="YLDBu60SeRwMWbC2DHA3-161" value="找样" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="40" y="40" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.023;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="77e6c97f196da883-5" source="YLDBu60SeRwMWbC2DHA3-159" target="YLDBu60SeRwMWbC2DHA3-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-6" value="Lane 5" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="640" y="20" width="160" height="460" as="geometry" />
         </mxCell>
@@ -105,12 +108,6 @@
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-109" value="需求分析&amp;amp;竞品分析&amp;amp;目标人群分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="95" y="520" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="205" as="sourcePoint" />
-            <mxPoint x="525" y="205" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
