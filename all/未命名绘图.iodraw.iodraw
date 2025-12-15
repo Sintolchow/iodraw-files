@@ -144,7 +144,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-189" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;⭕审核团队根据概念市容/战略地位对概念进行项目分级&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="210" height="60" as="geometry" />
+          <mxGeometry x="140" y="360" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
