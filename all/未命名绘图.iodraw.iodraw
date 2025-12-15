@@ -24,6 +24,11 @@
         <mxCell id="YLDBu60SeRwMWbC2DHA3-93" value="运营部门提供" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="110" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-2" source="YLDBu60SeRwMWbC2DHA3-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-92" value="产品部门调研" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="180" width="80" height="50" as="geometry" />
         </mxCell>
