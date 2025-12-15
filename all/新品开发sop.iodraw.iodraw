@@ -46,9 +46,6 @@
         <mxCell id="YLDBu60SeRwMWbC2DHA3-122" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;确认产品定义&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;fontStyle=1" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="28" y="99" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eO2jiof8pkie_VQY2UW6-40" value="概念提交人" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;container=0;glass=0;allowArrows=1;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="80" y="43" width="70" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="77e6c97f196da883-4" value="找样阶段" style="swimlane;html=1;startSize=20;swimlaneFillColor=none;gradientColor=none;fillColor=none;container=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="520" y="60" width="160" height="280" as="geometry" />
         </mxCell>
@@ -126,6 +123,11 @@
         <mxCell id="eO2jiof8pkie_VQY2UW6-13" value="项目分级阶段" style="swimlane;html=1;startSize=20;fontStyle=1;fillColor=none;strokeColor=default;swimlaneFillColor=none;swimlaneLine=1;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="160" y="20" width="160" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="eO2jiof8pkie_VQY2UW6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="eO2jiof8pkie_VQY2UW6-13" source="eO2jiof8pkie_VQY2UW6-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eO2jiof8pkie_VQY2UW6-14" value="A级项目" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=1" vertex="1" parent="eO2jiof8pkie_VQY2UW6-13">
           <mxGeometry x="40" y="40" width="80" height="50" as="geometry" />
         </mxCell>
@@ -160,6 +162,9 @@
         </mxCell>
         <mxCell id="eO2jiof8pkie_VQY2UW6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="YLDBu60SeRwMWbC2DHA3-93" target="eO2jiof8pkie_VQY2UW6-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eO2jiof8pkie_VQY2UW6-40" value="产开部门主管" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;container=0;glass=0;allowArrows=1;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="77e6c97f196da883-1">
+          <mxGeometry x="320" y="20" width="70" height="280" as="geometry" />
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="YLDBu60SeRwMWbC2DHA3-161" target="YLDBu60SeRwMWbC2DHA3-166" edge="1">
           <mxGeometry relative="1" as="geometry" />
