@@ -34,8 +34,8 @@
         <mxCell id="77e6c97f196da883-7" value="Lane 6" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="800" y="20" width="160" height="790" as="geometry" />
         </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-94" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="50" height="100" as="geometry" />
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-95" value="战略品类" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
