@@ -83,7 +83,7 @@
         <mxCell id="77e6c97f196da883-6" value="Lane 5" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="640" y="20" width="160" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-166" value="样品评估" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;container=0;glass=0;allowArrows=1;fillColor=default;" vertex="1" parent="77e6c97f196da883-6">
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-166" value="检验优化方案可行性" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;container=0;glass=0;allowArrows=1;fillColor=default;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="-5" y="90" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-7" value="Lane 6" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
