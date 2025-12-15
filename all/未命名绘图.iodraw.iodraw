@@ -1,53 +1,41 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1313" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="Pool" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="70" y="40" width="1010" height="810" as="geometry" />
+          <mxGeometry x="70" y="40" width="960" height="810" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="Lane 1" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry y="20" width="210" height="790" as="geometry" />
-        </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-2" source="77e6c97f196da883-8" target="YLDBu60SeRwMWbC2DHA3-95">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry y="20" width="160" height="790" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-8" value="战略品类" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="40" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-2" source="YLDBu60SeRwMWbC2DHA3-93" target="YLDBu60SeRwMWbC2DHA3-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-93" value="运营部门提供" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="110" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-2" source="YLDBu60SeRwMWbC2DHA3-92" target="YLDBu60SeRwMWbC2DHA3-95">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-92" value="产品部门调研" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="20" y="180" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-95" value="提交市调报告" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
-          <mxGeometry x="130" y="110" width="80" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="77e6c97f196da883-3" value="Lane 2" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="210" y="20" width="160" height="790" as="geometry" />
+          <mxGeometry x="160" y="20" width="160" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-95" value="提交市调报告" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="-40" y="110" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="Lane 3" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="370" y="20" width="160" height="790" as="geometry" />
+          <mxGeometry x="320" y="20" width="160" height="790" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="Lane 4" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="530" y="20" width="160" height="790" as="geometry" />
+          <mxGeometry x="480" y="20" width="160" height="790" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-6" value="Lane 5" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="690" y="20" width="160" height="790" as="geometry" />
+          <mxGeometry x="640" y="20" width="160" height="790" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-7" value="Lane 6" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="850" y="20" width="160" height="790" as="geometry" />
-        </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.81;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-2" target="77e6c97f196da883-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="800" y="20" width="160" height="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
