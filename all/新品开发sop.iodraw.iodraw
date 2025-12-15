@@ -1,55 +1,16 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="500" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YLDBu60SeRwMWbC2DHA3-192" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;⭕根据概念市容/战略地位对概念进行项目分级&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;🔺审核流程：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px; background-color: initial;&quot;&gt;运营部门主管/经理→&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: initial;&quot;&gt;产开部门主管（由对应概念提出部门最高负责人进行首轮审核）&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: initial;&quot;&gt;→总经理&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;→&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;董事长（A级项目）&lt;/span&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;textDirection=ltr;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="145" y="360" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="360" as="targetPoint" />
-            <mxPoint x="360" y="320" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="77e6c97f196da883-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="360" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="77e6c97f196da883-3" value="市调阶段" style="swimlane;html=1;startSize=20;fontStyle=1;fillColor=default;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="360" y="60" width="160" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=oval;endFill=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;shadow=0;fontStyle=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="77e6c97f196da883-3" edge="1" target="YLDBu60SeRwMWbC2DHA3-125">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="96.1282051282052" y="254" as="targetPoint" />
-            <mxPoint x="96" y="200" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-125" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;销售规模预估&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;shadow=0;direction=west;flipH=1;fontStyle=1" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="81" y="234" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.18;exitY=0.998;exitDx=0;exitDy=0;dashed=1;endArrow=oval;endFill=1;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="77e6c97f196da883-3" edge="1" target="YLDBu60SeRwMWbC2DHA3-122" source="YLDBu60SeRwMWbC2DHA3-112">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="254" as="targetPoint" />
-            <mxPoint x="55" y="284" as="sourcePoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eO2jiof8pkie_VQY2UW6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="YLDBu60SeRwMWbC2DHA3-112">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="76" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-112" value="市场调研" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=1" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="41" y="149" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-122" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;确认产品定义&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;fontStyle=1" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="40" y="234" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="eO2jiof8pkie_VQY2UW6-58" value="审核" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;container=0;glass=0;allowArrows=1;fillColor=default;fontStyle=1;verticalAlign=bottom;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="61" y="109" width="30" height="11" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="找样阶段" style="swimlane;html=1;startSize=20;swimlaneFillColor=none;gradientColor=none;fillColor=none;container=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="520" y="60" width="160" height="280" as="geometry" />
@@ -168,6 +129,39 @@
         <mxCell id="eO2jiof8pkie_VQY2UW6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="YLDBu60SeRwMWbC2DHA3-93" target="eO2jiof8pkie_VQY2UW6-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="77e6c97f196da883-3" value="市调阶段" style="swimlane;html=1;startSize=20;fontStyle=1;fillColor=default;gradientColor=none;verticalAlign=middle;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="320" y="20" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=oval;endFill=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;shadow=0;fontStyle=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="77e6c97f196da883-3" edge="1" target="YLDBu60SeRwMWbC2DHA3-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="96.1282051282052" y="254" as="targetPoint" />
+            <mxPoint x="96" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-125" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;销售规模预估&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;shadow=0;direction=west;flipH=1;fontStyle=1" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="81" y="234" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.18;exitY=0.998;exitDx=0;exitDy=0;dashed=1;endArrow=oval;endFill=1;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="77e6c97f196da883-3" edge="1" target="YLDBu60SeRwMWbC2DHA3-122" source="YLDBu60SeRwMWbC2DHA3-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="254" as="targetPoint" />
+            <mxPoint x="55" y="284" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eO2jiof8pkie_VQY2UW6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="YLDBu60SeRwMWbC2DHA3-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="76" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-112" value="市场调研" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=1" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="41" y="149" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-122" value="&lt;font style=&quot;font-size: 4px;&quot;&gt;确认产品定义&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;fontStyle=1" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="40" y="234" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eO2jiof8pkie_VQY2UW6-58" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;container=0;glass=0;allowArrows=1;fillColor=default;fontStyle=1;verticalAlign=bottom;textShadow=1;spacingBottom=-2;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="61" y="109" width="30" height="11" as="geometry" />
+        </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="YLDBu60SeRwMWbC2DHA3-161" target="YLDBu60SeRwMWbC2DHA3-166" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -233,6 +227,18 @@
         </mxCell>
         <mxCell id="eO2jiof8pkie_VQY2UW6-52" value="产开部门主管" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="396" y="104" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eO2jiof8pkie_VQY2UW6-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.838;exitY=0.693;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eO2jiof8pkie_VQY2UW6-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="210" as="sourcePoint" />
+            <mxPoint x="463" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eO2jiof8pkie_VQY2UW6-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YLDBu60SeRwMWbC2DHA3-112" target="YLDBu60SeRwMWbC2DHA3-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eO2jiof8pkie_VQY2UW6-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eO2jiof8pkie_VQY2UW6-13" target="YLDBu60SeRwMWbC2DHA3-192">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
