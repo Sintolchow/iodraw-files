@@ -25,8 +25,8 @@
         <mxCell id="YLDBu60SeRwMWbC2DHA3-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-3" source="YLDBu60SeRwMWbC2DHA3-95" target="YLDBu60SeRwMWbC2DHA3-112">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="20" y="135" />
-              <mxPoint x="20" y="65" />
+              <mxPoint x="30" y="135" />
+              <mxPoint x="30" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>
