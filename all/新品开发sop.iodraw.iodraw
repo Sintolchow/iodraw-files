@@ -141,11 +141,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eO2jiof8pkie_VQY2UW6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="YLDBu60SeRwMWbC2DHA3-112">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="76" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-112" value="市场调研" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=1" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="41" y="149" width="70" height="50" as="geometry" />
         </mxCell>
@@ -153,7 +148,7 @@
           <mxGeometry x="40" y="234" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eO2jiof8pkie_VQY2UW6-58" value="审核" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;container=0;glass=0;allowArrows=1;fillColor=default;fontStyle=1;verticalAlign=bottom;spacingBottom=-1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="61" y="109" width="30" height="11" as="geometry" />
+          <mxGeometry x="54" y="111" width="30" height="11" as="geometry" />
         </mxCell>
         <mxCell id="eO2jiof8pkie_VQY2UW6-64" value="项目立项" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;container=0;glass=0;allowArrows=1;fontStyle=1;fillColor=default;strokeColor=default;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="154" y="90" width="10" height="90" as="geometry" />
