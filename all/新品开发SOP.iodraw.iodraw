@@ -5,15 +5,17 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;新品开发SOP&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="960" height="280" as="geometry" />
+          <mxGeometry x="40" y="40" width="840" height="280" as="geometry" />
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="77e6c97f196da883-1" source="77e6c97f196da883-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="77e6c97f196da883-2" value="概念阶段" style="swimlane;html=1;startSize=20;fontStyle=1" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry y="20" width="160" height="260" as="geometry" />
+        <mxCell id="77e6c97f196da883-2" value="概念阶段" style="swimlane;html=1;startSize=20;fontStyle=1" parent="77e6c97f196da883-1" vertex="1" collapsed="1">
+          <mxGeometry y="20" width="40" height="260" as="geometry">
+            <mxRectangle y="20" width="160" height="260" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-8" value="战略品类" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fontStyle=1" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="40" width="80" height="50" as="geometry" />
@@ -30,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="市调阶段" style="swimlane;html=1;startSize=20;fontStyle=1" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="160" y="20" width="160" height="260" as="geometry" />
+          <mxGeometry x="40" y="20" width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=oval;endFill=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;shadow=0;fontStyle=1" parent="77e6c97f196da883-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -65,7 +67,7 @@
           <mxGeometry x="30" y="50" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="找样阶段" style="swimlane;html=1;startSize=20;swimlaneFillColor=none;gradientColor=none;fillColor=none;container=0;fontStyle=1" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="320" y="20" width="160" height="260" as="geometry" />
+          <mxGeometry x="200" y="20" width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="77e6c97f196da883-4" source="YLDBu60SeRwMWbC2DHA3-143" target="YLDBu60SeRwMWbC2DHA3-152" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -79,7 +81,7 @@
           <mxGeometry x="40" y="110" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="初样评估阶段" style="swimlane;html=1;startSize=20;fontStyle=1" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="480" y="20" width="160" height="260" as="geometry" />
+          <mxGeometry x="360" y="20" width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="77e6c97f196da883-5" source="YLDBu60SeRwMWbC2DHA3-159" target="YLDBu60SeRwMWbC2DHA3-161" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -91,7 +93,7 @@
           <mxGeometry x="40" y="110" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-6" value="产前样评估阶段" style="swimlane;html=1;startSize=20;fontStyle=1" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="640" y="20" width="160" height="260" as="geometry" />
+          <mxGeometry x="520" y="20" width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="77e6c97f196da883-6" source="YLDBu60SeRwMWbC2DHA3-166" target="YLDBu60SeRwMWbC2DHA3-170" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -103,7 +105,7 @@
           <mxGeometry x="40" y="110" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-7" value="产品最终阶段" style="swimlane;html=1;startSize=20;fontStyle=1" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="800" y="20" width="160" height="260" as="geometry" />
+          <mxGeometry x="680" y="20" width="160" height="260" as="geometry" />
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="77e6c97f196da883-7" source="YLDBu60SeRwMWbC2DHA3-182" target="YLDBu60SeRwMWbC2DHA3-184" edge="1">
           <mxGeometry relative="1" as="geometry" />
