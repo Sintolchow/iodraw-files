@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="Pool" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="70" y="40" width="965" height="480" as="geometry" />
+          <mxGeometry x="40" y="40" width="965" height="480" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="概念阶段" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="20" width="160" height="460" as="geometry" />
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YLDBu60SeRwMWbC2DHA3-109" value="需求分析&amp;amp;竞品分析&amp;amp;目标人群分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="125" y="520" width="210" height="30" as="geometry" />
+          <mxGeometry x="95" y="520" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
