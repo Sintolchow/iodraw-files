@@ -30,7 +30,7 @@
             <mxPoint x="120" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YLDBu60SeRwMWbC2DHA3-95" value="审核" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;container=0;glass=0;allowArrows=1;fontStyle=1;fillStyle=auto;fillColor=#FFFFFF;" parent="77e6c97f196da883-2" vertex="1">
+        <mxCell id="YLDBu60SeRwMWbC2DHA3-95" value="审核" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;arcSize=50;container=0;glass=0;allowArrows=1;fontStyle=1;fillStyle=auto;fillColor=#FFFFFF;strokeColor=default;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="155" y="90" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eO2jiof8pkie_VQY2UW6-13" value="概念阶段" style="swimlane;html=1;startSize=20;fontStyle=1;fillColor=none;strokeColor=default;swimlaneFillColor=none;swimlaneLine=1;" vertex="1" parent="77e6c97f196da883-1">
