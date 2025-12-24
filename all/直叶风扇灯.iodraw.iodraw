@@ -8,13 +8,13 @@
           <mxGeometry x="20" y="210" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="60" y="80" width="50" height="380" as="geometry" />
+          <mxGeometry x="60" y="80" width="50" height="510" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="XekTLdfS2sNW_27WwijC-4">
-          <mxGeometry width="50" height="380" as="geometry" />
+          <mxGeometry width="50" height="510" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="XekTLdfS2sNW_27WwijC-4">
-          <mxGeometry y="119.62962962962963" width="50" height="140.74074074074073" as="geometry" />
+          <mxGeometry y="160.55555555555554" width="50" height="188.88888888888889" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-5" value="42英寸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="30" width="20" height="90" as="geometry" />
