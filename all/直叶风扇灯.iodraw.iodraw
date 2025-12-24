@@ -116,7 +116,7 @@
           <mxGeometry x="460" y="355" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-141" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="74" width="20" height="65.75" as="geometry" />
+          <mxGeometry x="520" y="74" width="20" height="206" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-142" value="3CCT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="63" width="50" height="20" as="geometry" />
