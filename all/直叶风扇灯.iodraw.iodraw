@@ -41,7 +41,7 @@
           <mxGeometry x="280" y="-40" width="30" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="7.5" width="20" height="5" as="geometry" />
+          <mxGeometry x="290" y="5" width="20" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
