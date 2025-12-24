@@ -176,7 +176,7 @@
           <mxGeometry x="520" y="56.5" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-163" value="RGB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="142" width="50" height="20" as="geometry" />
+          <mxGeometry x="540" y="146" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-164" value="户外" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="198.5" width="70" height="20" as="geometry" />
@@ -186,6 +186,9 @@
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-169" value="黑+深棕色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="176.75" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XekTLdfS2sNW_27WwijC-171" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
