@@ -28,6 +28,9 @@
         <mxCell id="XekTLdfS2sNW_27WwijC-8" value="72英寸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="420" width="20" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="XekTLdfS2sNW_27WwijC-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
