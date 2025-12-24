@@ -71,13 +71,13 @@
           <mxGeometry x="310" y="-13.75" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="12.75" width="20" height="38.5" as="geometry" />
+          <mxGeometry x="310" y="22.75" width="20" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-31" value="黑+深棕色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="2" width="60" height="20" as="geometry" />
+          <mxGeometry x="330" y="12" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-32" value="白+浅棕色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="42" width="60" height="20" as="geometry" />
+          <mxGeometry x="330" y="52" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
