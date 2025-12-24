@@ -17,7 +17,7 @@
           <mxGeometry y="119.62962962962963" width="50" height="140.74074074074073" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-5" value="42英寸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="30" width="20" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
