@@ -67,6 +67,9 @@
         <mxCell id="XekTLdfS2sNW_27WwijC-28" value="黑+深棕色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="-45.75" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="XekTLdfS2sNW_27WwijC-29" value="黑+深棕色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-5.75" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
