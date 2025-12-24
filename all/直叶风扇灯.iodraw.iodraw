@@ -7,11 +7,14 @@
         <mxCell id="XekTLdfS2sNW_27WwijC-1" value="直叶风扇灯" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="20" y="210" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XekTLdfS2sNW_27WwijC-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="XekTLdfS2sNW_27WwijC-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="60" y="130" width="50" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="XekTLdfS2sNW_27WwijC-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="215" width="50" height="100" as="geometry" />
+        <mxCell id="XekTLdfS2sNW_27WwijC-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="XekTLdfS2sNW_27WwijC-4">
+          <mxGeometry width="50" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="XekTLdfS2sNW_27WwijC-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="XekTLdfS2sNW_27WwijC-4">
+          <mxGeometry y="85" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
