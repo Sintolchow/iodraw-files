@@ -16,7 +16,7 @@
         <mxCell id="XekTLdfS2sNW_27WwijC-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="XekTLdfS2sNW_27WwijC-4">
           <mxGeometry y="160.55555555555554" width="50" height="188.88888888888889" as="geometry" />
         </mxCell>
-        <mxCell id="XekTLdfS2sNW_27WwijC-5" value="42英寸/5叶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XekTLdfS2sNW_27WwijC-5" value="42英寸&lt;div&gt;/5叶&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="30" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-6" value="52英寸" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
