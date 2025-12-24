@@ -119,19 +119,19 @@
           <mxGeometry x="520" y="2.25" width="20" height="206" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-142" value="3CCT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-13" width="50" height="20" as="geometry" />
+          <mxGeometry x="540" y="-15.75" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-143" value="背发光夜灯" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="52.75" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-144" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-22.25" width="20" height="38.5" as="geometry" />
+          <mxGeometry x="590" y="-25" width="20" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-145" value="黑+深棕色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-33" width="60" height="20" as="geometry" />
+          <mxGeometry x="610" y="-35.75" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-146" value="白+浅棕色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="7" width="60" height="20" as="geometry" />
+          <mxGeometry x="610" y="4.25" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XekTLdfS2sNW_27WwijC-147" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="43.5" width="20" height="38.5" as="geometry" />
