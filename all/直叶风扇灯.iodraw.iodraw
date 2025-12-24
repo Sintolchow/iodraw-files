@@ -37,6 +37,9 @@
         <mxCell id="XekTLdfS2sNW_27WwijC-11" value="塑料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="125" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XekTLdfS2sNW_27WwijC-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-40" width="30" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
