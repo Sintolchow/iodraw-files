@@ -169,8 +169,8 @@
         <mxCell id="XekTLdfS2sNW_27WwijC-158" value="白+浅棕色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="349.75" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XekTLdfS2sNW_27WwijC-161" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="440" y="230" width="60" height="10" as="geometry" />
+        <mxCell id="XekTLdfS2sNW_27WwijC-161" value="" style="line;strokeWidth=2;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="115" y="234" width="315" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
